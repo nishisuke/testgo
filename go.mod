@@ -1,4 +1,4 @@
-module mylinter
+module github.com/nishisuke/testgo
 
 go 1.21
 

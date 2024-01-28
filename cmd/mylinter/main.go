@@ -1,7 +1,7 @@
 package main
 
 import (
-	"mylinter"
+	mylinter "github.com/nishisuke/testgo"
 
 	"golang.org/x/tools/go/analysis/singlechecker"
 )

@@ -2,9 +2,10 @@ package main
 
 import (
 	"fmt"
-	bb "mylinter/internal/bar"
-	"mylinter/internal/foo"
 	h "net/http"
+
+	bb "github.com/nishisuke/testgo/internal/bar"
+	"github.com/nishisuke/testgo/internal/foo"
 )
 
 func main() {

@@ -1,7 +1,7 @@
 package foo
 
 import (
-	kk "mylinter/internal/bar"
+	kk "github.com/nishisuke/testgo/internal/bar"
 )
 
 func Foo() int { return 5 }
