@@ -3,7 +3,7 @@ package main
 import (
 	"mylinter"
 
-	"golang.org/x/tools/go/analysis/unitchecker"
+	"golang.org/x/tools/go/analysis/singlechecker"
 )
 
-func main() { unitchecker.Main(mylinter.Analyzer) }
+func main() { singlechecker.Main(mylinter.Analyzer) }
