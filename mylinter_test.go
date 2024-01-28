@@ -1,4 +1,4 @@
-package mylinter_test
+package testgo_test
 
 import (
 	"testing"
