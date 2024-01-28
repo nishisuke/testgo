@@ -1,4 +1,4 @@
-package mylinter
+package testgo
 
 import (
 	"go/ast"
